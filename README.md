@@ -1,5 +1,3 @@
-Aqui está o exemplo de um README para o seu projeto GitHub:
-
 #  Sistema de Controle de Voo com Raspberry Pi Zero 2W
 
 ## Visão Geral
