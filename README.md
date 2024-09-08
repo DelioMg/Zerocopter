@@ -19,7 +19,7 @@ Na versão inicial do projeto, a configuração inclui:
   - Um **regulador stepdown** de 5V é utilizado para alimentar o Raspberry Pi
 
 Toda a lógica de controle do voo, incluindo a estabilização e processamento dos dados dos sensores, é realizada pelo **Raspberry Pi Zero 2W**.
-
+<p align="center"><img src="Imagens/zerocopterV1.png" width="600px" /></p>
 ## Versão 2 (V2)
 
 Na segunda versão do projeto, foram realizadas melhorias significativas para otimizar a estabilidade e o desempenho do sistema:
